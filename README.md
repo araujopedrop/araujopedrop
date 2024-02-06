@@ -1,4 +1,4 @@
-<h1 align="center">H!! I'm Pedro 👋 </h1>
+<h1 align="center">Hi! I'm Pedro 👋 </h1>
 
 <p align="center">
     <img width="680" height="480" src="https://github.com/araujopedrop/araujopedrop/assets/5003164/9448b89b-3bfd-4509-8579-fb13972d5465">
